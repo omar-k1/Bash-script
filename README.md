@@ -1,7 +1,8 @@
 # bash_script
 
 
-![Alt text](/home/omar/Pictures/Screenshots)
+![bash](https://github.com/user-attachments/assets/938371e6-49a1-44ca-b4e4-cd0fd97f1ea6)
+
 
 
 ## Project Description:-

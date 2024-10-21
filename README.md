@@ -1,7 +1,7 @@
 # bash_script
 
 
-![Alt text](/home/ali/Downloads/Linux .jpeg)
+![Alt text](/home/omar/Pictures/Screenshots/.png)
 
 
 ## Project Description:-
